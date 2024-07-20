@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\SistemaVotaciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22045000-277A-4CA6-97C5-0A10534AAFE1}|SistemaVotaciones\\SistemaVotaciones.csproj|c:\\users\\usuario\\source\\repos\\sistemavotaciones\\sistemavotaciones\\capavistas\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{22045000-277A-4CA6-97C5-0A10534AAFE1}|SistemaVotaciones\\SistemaVotaciones.csproj|solutionrelative:sistemavotaciones\\capavistas\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22045000-277A-4CA6-97C5-0A10534AAFE1}|SistemaVotaciones\\SistemaVotaciones.csproj|c:\\users\\usuario\\source\\repos\\sistemavotaciones\\sistemavotaciones\\capavistas\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{22045000-277A-4CA6-97C5-0A10534AAFE1}|SistemaVotaciones\\SistemaVotaciones.csproj|solutionrelative:sistemavotaciones\\capavistas\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22045000-277A-4CA6-97C5-0A10534AAFE1}|SistemaVotaciones\\SistemaVotaciones.csproj|c:\\users\\usuario\\source\\repos\\sistemavotaciones\\sistemavotaciones\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{22045000-277A-4CA6-97C5-0A10534AAFE1}|SistemaVotaciones\\SistemaVotaciones.csproj|solutionrelative:sistemavotaciones\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22045000-277A-4CA6-97C5-0A10534AAFE1}|SistemaVotaciones\\SistemaVotaciones.csproj|c:\\users\\usuario\\source\\repos\\sistemavotaciones\\sistemavotaciones\\capavistas\\p3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{22045000-277A-4CA6-97C5-0A10534AAFE1}|SistemaVotaciones\\SistemaVotaciones.csproj|solutionrelative:sistemavotaciones\\capavistas\\p3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22045000-277A-4CA6-97C5-0A10534AAFE1}|SistemaVotaciones\\SistemaVotaciones.csproj|c:\\users\\usuario\\source\\repos\\sistemavotaciones\\sistemavotaciones\\capadatos\\clsvoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22045000-277A-4CA6-97C5-0A10534AAFE1}|SistemaVotaciones\\SistemaVotaciones.csproj|solutionrelative:sistemavotaciones\\capadatos\\clsvoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22045000-277A-4CA6-97C5-0A10534AAFE1}|SistemaVotaciones\\SistemaVotaciones.csproj|c:\\users\\usuario\\source\\repos\\sistemavotaciones\\sistemavotaciones\\capadatos\\resultados.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22045000-277A-4CA6-97C5-0A10534AAFE1}|SistemaVotaciones\\SistemaVotaciones.csproj|solutionrelative:sistemavotaciones\\capadatos\\resultados.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22045000-277A-4CA6-97C5-0A10534AAFE1}|SistemaVotaciones\\SistemaVotaciones.csproj|c:\\users\\usuario\\source\\repos\\sistemavotaciones\\sistemavotaciones\\capadatos\\clscandidato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22045000-277A-4CA6-97C5-0A10534AAFE1}|SistemaVotaciones\\SistemaVotaciones.csproj|solutionrelative:sistemavotaciones\\capadatos\\clscandidato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22045000-277A-4CA6-97C5-0A10534AAFE1}|SistemaVotaciones\\SistemaVotaciones.csproj|c:\\users\\usuario\\source\\repos\\sistemavotaciones\\sistemavotaciones\\capavistas\\p2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{22045000-277A-4CA6-97C5-0A10534AAFE1}|SistemaVotaciones\\SistemaVotaciones.csproj|solutionrelative:sistemavotaciones\\capavistas\\p2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22045000-277A-4CA6-97C5-0A10534AAFE1}|SistemaVotaciones\\SistemaVotaciones.csproj|c:\\users\\usuario\\source\\repos\\sistemavotaciones\\sistemavotaciones\\capavistas\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{22045000-277A-4CA6-97C5-0A10534AAFE1}|SistemaVotaciones\\SistemaVotaciones.csproj|solutionrelative:sistemavotaciones\\capavistas\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22045000-277A-4CA6-97C5-0A10534AAFE1}|SistemaVotaciones\\SistemaVotaciones.csproj|c:\\users\\usuario\\source\\repos\\sistemavotaciones\\sistemavotaciones\\capadatos\\registrarcandidatos.aspx.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22045000-277A-4CA6-97C5-0A10534AAFE1}|SistemaVotaciones\\SistemaVotaciones.csproj|solutionrelative:sistemavotaciones\\capadatos\\registrarcandidatos.aspx.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22045000-277A-4CA6-97C5-0A10534AAFE1}|SistemaVotaciones\\SistemaVotaciones.csproj|c:\\users\\usuario\\source\\repos\\sistemavotaciones\\sistemavotaciones\\capavistas\\p2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22045000-277A-4CA6-97C5-0A10534AAFE1}|SistemaVotaciones\\SistemaVotaciones.csproj|solutionrelative:sistemavotaciones\\capavistas\\p2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22045000-277A-4CA6-97C5-0A10534AAFE1}|SistemaVotaciones\\SistemaVotaciones.csproj|c:\\users\\usuario\\source\\repos\\sistemavotaciones\\sistemavotaciones\\capadatos\\clsusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22045000-277A-4CA6-97C5-0A10534AAFE1}|SistemaVotaciones\\SistemaVotaciones.csproj|solutionrelative:sistemavotaciones\\capadatos\\clsusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22045000-277A-4CA6-97C5-0A10534AAFE1}|SistemaVotaciones\\SistemaVotaciones.csproj|c:\\users\\usuario\\source\\repos\\sistemavotaciones\\sistemavotaciones\\capadatos\\clsresultado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22045000-277A-4CA6-97C5-0A10534AAFE1}|SistemaVotaciones\\SistemaVotaciones.csproj|solutionrelative:sistemavotaciones\\capadatos\\clsresultado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22045000-277A-4CA6-97C5-0A10534AAFE1}|SistemaVotaciones\\SistemaVotaciones.csproj|c:\\users\\usuario\\source\\repos\\sistemavotaciones\\sistemavotaciones\\capadatos\\clspartido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22045000-277A-4CA6-97C5-0A10534AAFE1}|SistemaVotaciones\\SistemaVotaciones.csproj|solutionrelative:sistemavotaciones\\capadatos\\clspartido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22045000-277A-4CA6-97C5-0A10534AAFE1}|SistemaVotaciones\\SistemaVotaciones.csproj|c:\\users\\usuario\\source\\repos\\sistemavotaciones\\sistemavotaciones\\capavistas\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22045000-277A-4CA6-97C5-0A10534AAFE1}|SistemaVotaciones\\SistemaVotaciones.csproj|solutionrelative:sistemavotaciones\\capavistas\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22045000-277A-4CA6-97C5-0A10534AAFE1}|SistemaVotaciones\\SistemaVotaciones.csproj|c:\\users\\usuario\\source\\repos\\sistemavotaciones\\sistemavotaciones\\css\\login.css.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{22045000-277A-4CA6-97C5-0A10534AAFE1}|SistemaVotaciones\\SistemaVotaciones.csproj|solutionrelative:sistemavotaciones\\css\\login.css.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22045000-277A-4CA6-97C5-0A10534AAFE1}|SistemaVotaciones\\SistemaVotaciones.csproj|c:\\users\\usuario\\source\\repos\\sistemavotaciones\\sistemavotaciones\\css\\menu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{22045000-277A-4CA6-97C5-0A10534AAFE1}|SistemaVotaciones\\SistemaVotaciones.csproj|solutionrelative:sistemavotaciones\\css\\menu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22045000-277A-4CA6-97C5-0A10534AAFE1}|SistemaVotaciones\\SistemaVotaciones.csproj|c:\\users\\usuario\\source\\repos\\sistemavotaciones\\sistemavotaciones\\css\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{22045000-277A-4CA6-97C5-0A10534AAFE1}|SistemaVotaciones\\SistemaVotaciones.csproj|solutionrelative:sistemavotaciones\\css\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22045000-277A-4CA6-97C5-0A10534AAFE1}|SistemaVotaciones\\SistemaVotaciones.csproj|c:\\users\\usuario\\source\\repos\\sistemavotaciones\\sistemavotaciones\\capavistas\\inicio.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22045000-277A-4CA6-97C5-0A10534AAFE1}|SistemaVotaciones\\SistemaVotaciones.csproj|solutionrelative:sistemavotaciones\\capavistas\\inicio.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClsPartido.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\SistemaVotaciones\\SistemaVotaciones\\CapaDatos\\ClsPartido.cs",
+              "RelativeDocumentMoniker": "SistemaVotaciones\\CapaDatos\\ClsPartido.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\SistemaVotaciones\\SistemaVotaciones\\CapaDatos\\ClsPartido.cs",
+              "RelativeToolTip": "SistemaVotaciones\\CapaDatos\\ClsPartido.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T15:39:15.53Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Resultados.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\SistemaVotaciones\\SistemaVotaciones\\CapaDatos\\Resultados.aspx.cs",
+              "RelativeDocumentMoniker": "SistemaVotaciones\\CapaDatos\\Resultados.aspx.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\SistemaVotaciones\\SistemaVotaciones\\CapaDatos\\Resultados.aspx.cs",
+              "RelativeToolTip": "SistemaVotaciones\\CapaDatos\\Resultados.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T20:04:28.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClsCandidato.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\SistemaVotaciones\\SistemaVotaciones\\CapaDatos\\ClsCandidato.cs",
+              "RelativeDocumentMoniker": "SistemaVotaciones\\CapaDatos\\ClsCandidato.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\SistemaVotaciones\\SistemaVotaciones\\CapaDatos\\ClsCandidato.cs",
+              "RelativeToolTip": "SistemaVotaciones\\CapaDatos\\ClsCandidato.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T19:59:08.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegistrarCandidatos.aspx.cs.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\SistemaVotaciones\\SistemaVotaciones\\CapaDatos\\RegistrarCandidatos.aspx.cs.cs",
+              "RelativeDocumentMoniker": "SistemaVotaciones\\CapaDatos\\RegistrarCandidatos.aspx.cs.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\SistemaVotaciones\\SistemaVotaciones\\CapaDatos\\RegistrarCandidatos.aspx.cs.cs",
+              "RelativeToolTip": "SistemaVotaciones\\CapaDatos\\RegistrarCandidatos.aspx.cs.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvxsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T19:58:14.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "P2.aspx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\SistemaVotaciones\\SistemaVotaciones\\CapaVistas\\P2.aspx",
+              "RelativeDocumentMoniker": "SistemaVotaciones\\CapaVistas\\P2.aspx",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\SistemaVotaciones\\SistemaVotaciones\\CapaVistas\\P2.aspx",
+              "RelativeToolTip": "SistemaVotaciones\\CapaVistas\\P2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-20T18:15:10.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\SistemaVotaciones\\SistemaVotaciones\\CapaVistas\\Login.aspx",
+              "RelativeDocumentMoniker": "SistemaVotaciones\\CapaVistas\\Login.aspx",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\SistemaVotaciones\\SistemaVotaciones\\CapaVistas\\Login.aspx",
+              "RelativeToolTip": "SistemaVotaciones\\CapaVistas\\Login.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-20T15:52:31.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\SistemaVotaciones\\SistemaVotaciones\\CapaVistas\\Site1.Master",
+              "RelativeDocumentMoniker": "SistemaVotaciones\\CapaVistas\\Site1.Master",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\SistemaVotaciones\\SistemaVotaciones\\CapaVistas\\Site1.Master",
+              "RelativeToolTip": "SistemaVotaciones\\CapaVistas\\Site1.Master",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-20T16:36:03.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "p3.aspx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\SistemaVotaciones\\SistemaVotaciones\\CapaVistas\\p3.aspx",
+              "RelativeDocumentMoniker": "SistemaVotaciones\\CapaVistas\\p3.aspx",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\SistemaVotaciones\\SistemaVotaciones\\CapaVistas\\p3.aspx",
+              "RelativeToolTip": "SistemaVotaciones\\CapaVistas\\p3.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-20T18:16:43.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClsVoto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\SistemaVotaciones\\SistemaVotaciones\\CapaDatos\\ClsVoto.cs",
+              "RelativeDocumentMoniker": "SistemaVotaciones\\CapaDatos\\ClsVoto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\SistemaVotaciones\\SistemaVotaciones\\CapaDatos\\ClsVoto.cs",
+              "RelativeToolTip": "SistemaVotaciones\\CapaDatos\\ClsVoto.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T15:39:41.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\SistemaVotaciones\\SistemaVotaciones\\Web.config",
+              "RelativeDocumentMoniker": "SistemaVotaciones\\Web.config",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\SistemaVotaciones\\SistemaVotaciones\\Web.config",
+              "RelativeToolTip": "SistemaVotaciones\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-20T19:02:41.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "inicio.aspx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\SistemaVotaciones\\SistemaVotaciones\\CapaVistas\\inicio.aspx",
+              "RelativeDocumentMoniker": "SistemaVotaciones\\CapaVistas\\inicio.aspx",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\SistemaVotaciones\\SistemaVotaciones\\CapaVistas\\inicio.aspx",
+              "RelativeToolTip": "SistemaVotaciones\\CapaVistas\\inicio.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-20T18:13:14.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "P2.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\SistemaVotaciones\\SistemaVotaciones\\CapaVistas\\P2.aspx.cs",
+              "RelativeDocumentMoniker": "SistemaVotaciones\\CapaVistas\\P2.aspx.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\SistemaVotaciones\\SistemaVotaciones\\CapaVistas\\P2.aspx.cs",
+              "RelativeToolTip": "SistemaVotaciones\\CapaVistas\\P2.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T19:49:14.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "login.css.css",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\SistemaVotaciones\\SistemaVotaciones\\css\\login.css.css",
+              "RelativeDocumentMoniker": "SistemaVotaciones\\css\\login.css.css",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\SistemaVotaciones\\SistemaVotaciones\\css\\login.css.css",
+              "RelativeToolTip": "SistemaVotaciones\\css\\login.css.css",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAkwIsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-20T15:55:07.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClsResultado.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\SistemaVotaciones\\SistemaVotaciones\\CapaDatos\\ClsResultado.cs",
+              "RelativeDocumentMoniker": "SistemaVotaciones\\CapaDatos\\ClsResultado.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\SistemaVotaciones\\SistemaVotaciones\\CapaDatos\\ClsResultado.cs",
+              "RelativeToolTip": "SistemaVotaciones\\CapaDatos\\ClsResultado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T15:40:14.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClsUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\SistemaVotaciones\\SistemaVotaciones\\CapaDatos\\ClsUsuario.cs",
+              "RelativeDocumentMoniker": "SistemaVotaciones\\CapaDatos\\ClsUsuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\SistemaVotaciones\\SistemaVotaciones\\CapaDatos\\ClsUsuario.cs",
+              "RelativeToolTip": "SistemaVotaciones\\CapaDatos\\ClsUsuario.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwBIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T15:38:33.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\SistemaVotaciones\\SistemaVotaciones\\CapaVistas\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "SistemaVotaciones\\CapaVistas\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\SistemaVotaciones\\SistemaVotaciones\\CapaVistas\\Login.aspx.cs",
+              "RelativeToolTip": "SistemaVotaciones\\CapaVistas\\Login.aspx.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAkwCsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T16:22:58.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StyleSheet1.css",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\SistemaVotaciones\\SistemaVotaciones\\css\\StyleSheet1.css",
+              "RelativeDocumentMoniker": "SistemaVotaciones\\css\\StyleSheet1.css",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\SistemaVotaciones\\SistemaVotaciones\\css\\StyleSheet1.css",
+              "RelativeToolTip": "SistemaVotaciones\\css\\StyleSheet1.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-20T15:55:19.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Menu.css",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\SistemaVotaciones\\SistemaVotaciones\\css\\Menu.css",
+              "RelativeDocumentMoniker": "SistemaVotaciones\\css\\Menu.css",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\SistemaVotaciones\\SistemaVotaciones\\css\\Menu.css",
+              "RelativeToolTip": "SistemaVotaciones\\css\\Menu.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOcBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-20T16:38:20.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "inicio.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\SistemaVotaciones\\SistemaVotaciones\\CapaVistas\\inicio.aspx.cs",
+              "RelativeDocumentMoniker": "SistemaVotaciones\\CapaVistas\\inicio.aspx.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\SistemaVotaciones\\SistemaVotaciones\\CapaVistas\\inicio.aspx.cs",
+              "RelativeToolTip": "SistemaVotaciones\\CapaVistas\\inicio.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T18:28:52.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
